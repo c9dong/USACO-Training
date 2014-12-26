@@ -77,4 +77,4 @@ int main(){
 	}
 	
 	fout << max << endl;
-}
+} 	
